@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Egemen Erin</h1>
 <h3 align="center">I go by the name Pixel Sushi and i just started learning coding. I am hoping to become a game developer one day :)</h3>
 
-<img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/116207...](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7c95ec7b-5a4f-4aef-93df-78fad9ba2505/ddh4slr-82c38d93-e1a3-4414-9128-d8613670dc97.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzdjOTVlYzdiLTVhNGYtNGFlZi05M2RmLTc4ZmFkOWJhMjUwNVwvZGRoNHNsci04MmMzOGQ5My1lMWEzLTQ0MTQtOTEyOC1kODYxMzY3MGRjOTcuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.ElJVJDFOgnKjHAN3UP_yjOqxk1s3lWSyPtIo7tseO30)">
+<img align="right" alt="Coding" width="400" src="[https://cdna.artstation.com/p/assets/images/images/022/235/122/original/jack-brown-black-1st-attack-ghoul-death.gif]">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pixelsushidev" alt="pixelsushidev" /></a> </p>
 

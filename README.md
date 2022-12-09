@@ -5,7 +5,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdna.artstation.com/p/assets/images/images/022/235/122/original/jack-brown-black-1st-attack-ghoul-death.gif">
 
-<p align="left"> <a href="https://twitter.com/pixelsushidev" target="blank"><img src="https://img.shields.io/twitter/follow/pixelsushidev?logo=twitter&style=for-the-badge" alt="pixelsushidev" /></a> </p>
+<p align="left"> <a href="https://twitter.com/pixelsushi" target="blank"><img src="https://img.shields.io/twitter/follow/pixelsushidev?logo=twitter&style=for-the-badge" alt="pixelsushidev" /></a> </p>
 
 - 🔭 I’m currently working on **Harvard CS50's Course Assignments**
 
@@ -32,3 +32,5 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/pixelsushidev"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="190" alt="pixelsushidev" /></a></p><br><br>
+
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=pixelsushidev&show_icons=true&locale=en" alt="pixelsushidev" /></p>

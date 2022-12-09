@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Egemen Erin</h1>
 <h3 align="center">I go by the name Pixel Sushi and i just started learning coding. I am hoping to become a game developer one day :)</h3>
 
-<img align="right" alt="Coding" width="400" src="[https://cdna.artstation.com/p/assets/images/images/022/235/122/original/jack-brown-black-1st-attack-ghoul-death.gif]">
+<img align="right" alt="Coding" width="400" src="https://cdna.artstation.com/p/assets/images/images/022/235/122/original/jack-brown-black-1st-attack-ghoul-death.gif">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pixelsushidev" alt="pixelsushidev" /></a> </p>
 

@@ -5,8 +5,6 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdna.artstation.com/p/assets/images/images/022/235/122/original/jack-brown-black-1st-attack-ghoul-death.gif">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pixelsushidev" alt="pixelsushidev" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/pixelsushidev" target="blank"><img src="https://img.shields.io/twitter/follow/pixelsushidev?logo=twitter&style=for-the-badge" alt="pixelsushidev" /></a> </p>
 
 - 🔭 I’m currently working on **Harvard CS50's Course Assignments**
